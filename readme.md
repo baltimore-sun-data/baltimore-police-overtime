@@ -4,8 +4,7 @@
 
 By [Christine Zhang](mailto:czhang@baltsun.com)
 
-The Baltimore Sun obtained salary and overtime reords for around 3,000 police officers over fiscal years 2018 and 2019 from the Baltimore Police Department. Our analysis of these records provided information for a February 7, 2020 Baltimore Sun story titled ["Baltimore police racked up overtime by working long hours with little oversight in past 2 years, records show
-"](https://www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-police-overtime-20200207-z43l2amv3vf3lb4rtgsvfeye6i-story.html)
+The Baltimore Sun obtained salary and overtime reords for around 3,000 police officers over fiscal years 2018 and 2019 from the Baltimore Police Department. Our analysis of these records provided information for a February 7, 2020 Baltimore Sun story titled ["Baltimore police racked up overtime by working long hours with little oversight in past 2 years, records show."](https://www.baltimoresun.com/maryland/baltimore-city/bs-md-ci-police-overtime-20200207-z43l2amv3vf3lb4rtgsvfeye6i-story.html)
 
 The Sun's findings and analysis are available in the "analysis" markdown file in this repository: [`analysis.md`](https://github.com/baltimore-sun-data/baltimore-police-overtime/blob/master/analysis.md). The pre-processing code is in the [`cleaning.R`](https://github.com/baltimore-sun-data/baltimore-police-overtime/blob/master/cleaning.R) file in this repository.
 
